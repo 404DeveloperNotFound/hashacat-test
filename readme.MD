@@ -1,3 +1,9 @@
 #Dev Branch 
-This is a script to test if hascat works. It does nothing more.
+
+Added: 
+  md5.txt  
+  sha1.txt  
+  sha224.txt 
+  sha256.txt 
+  sha512.txt
 
